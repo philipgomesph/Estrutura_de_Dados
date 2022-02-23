@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1537378322 source:d:\daniela\palindromo\main.c
+	"pilha.h"
+
+1537378278 d:\daniela\palindromo\pilha.h
+	<stdio.h>
+	<stdlib.h>
+
+1537376469 source:d:\daniela\palindromo\pilha.c
+	"pilha.h"
+
+1538527616 source:c:\users\philipe ph\desktop\desenvolvimento\estrutura de dados\palindromo\palindromo\main.c
+	"pilha.h"
+
+1538527616 c:\users\philipe ph\desktop\desenvolvimento\estrutura de dados\palindromo\palindromo\pilha.h
+	<stdio.h>
+	<stdlib.h>
+

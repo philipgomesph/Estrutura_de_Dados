@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1541019348 source:c:\users\alunos\desktop\projeto_listaestudos_filapi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto_h.h"
+
+1541019118 source:c:\users\alunos\desktop\projeto_listaestudos_filapi\ponto_c.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"ponto_h.h"
+
+1541018991 c:\users\alunos\desktop\projeto_listaestudos_filapi\ponto_h.h
+

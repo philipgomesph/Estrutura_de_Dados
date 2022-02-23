@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1539869397 source:c:\users\alunos\desktop\trabalho_ed\trabalho_ed\trabalho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trab.h"
+	<locale.h>
+
+1539869397 c:\users\alunos\desktop\trabalho_ed\trabalho_ed\trab.h
+
+1539870437 source:c:\users\alunos\desktop\trabalho_ed\trabalho_ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"trab.h"
+
+1539870593 source:c:\users\philipe ph\desktop\desenvolvimento\estrutura de dados\trabalho_ed\trabalho_ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"trab.h"
+
+1539869397 c:\users\philipe ph\desktop\desenvolvimento\estrutura de dados\trabalho_ed\trabalho_ed\trab.h
+
+1539869397 source:c:\users\philipe ph\desktop\desenvolvimento\estrutura de dados\trabalho_ed\trabalho_ed\trabalho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trab.h"
+	<locale.h>
+

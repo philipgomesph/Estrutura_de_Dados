@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1545174955 source:c:\users\philipe ph\desktop\estudos_p2ed\p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pacienteH.h"
+
+1545174955 c:\users\philipe ph\desktop\estudos_p2ed\p2\pacienteh.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545174551 source:c:\users\philipe ph\desktop\estudos_p2ed\p2\pacientec.c
+	"pacienteH.h"
+

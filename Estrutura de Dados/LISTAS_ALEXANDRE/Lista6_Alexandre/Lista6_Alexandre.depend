@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553652701 source:c:\users\philipe ph\desktop\listas_alexandre\lista6_alexandre\main.c
+	<stdio.h>
+	<stdlib.h>
+

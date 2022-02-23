@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1545211147 source:c:\users\philipe ph\desktop\estudos_p2ed\projetoestudoshue\pontocue.c
+	"pontoHUE.h"
+
+1545211062 source:c:\users\philipe ph\desktop\estudos_p2ed\projetoestudoshue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pontoHUE.h"
+
+1545177949 c:\users\philipe ph\desktop\estudos_p2ed\projetoestudoshue\pontohue.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1564003242 source:f:\faculdade\periodo 2022-1\auxilio\po\estrutura de dados-20220223t115052z-001\projetoestudoshue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pontoHUE.h"
+
+1564003242 f:\faculdade\periodo 2022-1\auxilio\po\estrutura de dados-20220223t115052z-001\projetoestudoshue\pontohue.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1564003242 source:f:\faculdade\periodo 2022-1\auxilio\po\estrutura de dados-20220223t115052z-001\projetoestudoshue\pontocue.c
+	"pontoHUE.h"
+

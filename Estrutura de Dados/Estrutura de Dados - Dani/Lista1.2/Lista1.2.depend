@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533260182 source:c:\users\philipe ph\desktop\estrutura de dados\lista1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
